@@ -8,3 +8,6 @@ Hey there, reader! 👋
 
   
 Here!  My portfolio  -  https://www.crio.do/learn/portfolio/vijaykumarchinta1919   to get to know more about me on my Projects & Skills , and/or to dig up my social media profiles to stalk.
+
+Currently Working as a PPC Engineer at INDO-MIM LTD  & Now transitioning to a development role, blending process optimization expertise with a strong analytical background. Proficient in project management and cross-functional collaboration, seeking to
+apply technical acumen and innovation to software development project
