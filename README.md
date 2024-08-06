@@ -12,5 +12,5 @@ Here!  My portfolio  -  https://www.crio.do/learn/portfolio/vijaykumarchinta1919
 Currently Working as a PPC Engineer at INDO-MIM LTD  & Now transitioning to a development role, blending process optimization expertise with a strong analytical background. Proficient in project management and cross-functional collaboration, seeking to
 apply technical acumen and innovation to software development project
 
-## snake eat my git contribution
+
 ![snake gif](https://github.com/1919SaiRam/blob/output/github-contribution-grid-snake.gif)
