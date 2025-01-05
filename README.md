@@ -14,12 +14,19 @@ Currently Working as a PPC Engineer at INDO-MIM LTD  & Now transitioning to a de
 apply technical acumen and innovation to software development project's .
 
 Javascript and Node.js: Developing RESTful endpoints and APIs. 🛠️
+
 MongoDB & SQL: Managing and integrating databases. 🗄️
+
 React.Js: Building dynamic and responsive front-end applications. 🌐
+
 I am passionate about leveraging my skills in software development to drive innovation and efficiency. My experience spans various aspects of both backend and frontend development, including:
 
 Microservices Architecture: Designing and implementing scalable services. 🏗️
+
 RESTful APIs: Creating efficient and maintainable interfaces. 🔗
+
 Database Optimization: Enhancing database performance and reliability. ⚙️
+
 Responsive Design: Ensuring applications work seamlessly across devices. 📱💻
+
 I am continually eager to learn and adapt to new challenges in the tech industry. 💻✨
