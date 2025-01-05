@@ -13,6 +13,10 @@
 Currently Working as a PPC Engineer at INDO-MIM LTD  & Now transitioning to a development role, blending process optimization expertise with a strong analytical background. Proficient in project management and cross-functional collaboration, seeking to
 apply technical acumen and innovation to software development project's .
 
+# PDCA ( Plan Do Check Act ) & CURD Operations 
+![image](https://github.com/user-attachments/assets/bb222bb5-0fcf-4a2e-bccc-71e2ceb8127f)
+
+
 # 🖥️ My skills
 
 Javascript and Node.js: Developing RESTful endpoints and APIs. 🛠️
